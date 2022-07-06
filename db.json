@@ -1,0 +1,272 @@
+{
+    "profile": [
+        {
+            "firstName": "Lerian",
+            "lastName": "Febriana",
+            "callName": "Ale",
+            "title": "A.Md.Kom",
+            "role": "Back-End Developer",
+            "residence": "Kota Tasikmalaya, Indonesia",
+            "bio": "I specialise in Web Development and IT Support. I'm always striving to grow and learn something new. I'm interested about IoT Development and Electrical Engineering 👋"
+        }
+    ],
+    "socialMedia": [
+        {
+            "name": "Facebook",
+            "url": "https://facebook.com/kanglerian",
+            "id": 1
+        },
+        {
+            "name": "LinkedIn",
+            "url": "https://www.linkedin.com/in/kanglerian/n",
+            "id": 2
+        },
+        {
+            "name": "Instagram",
+            "url": "https://instagram.com/kanglerian/",
+            "id": 3
+        },
+        {
+            "name": "Github",
+            "url": "https://github.com/kanglerian/",
+            "id": 4
+        },
+        {
+            "name": "Youtube",
+            "url": "https://youtube.com/c/warungprogrammer/",
+            "id": 5
+        }
+    ],
+    "skills": [
+        {
+            "name": "Back End Development",
+            "description": "I'm doing with NodeJS for development.",
+            "tools": [
+                {
+                    "name": "NodeJS",
+                    "id": 1
+                },
+                {
+                    "name": "ExpressJS",
+                    "id": 2
+                },
+                {
+                    "name": "Laravel",
+                    "id": 3
+                },
+                {
+                    "name": "CodeIgniter",
+                    "id": 4
+                },
+                {
+                    "name": "MySQL",
+                    "id": 5
+                }
+            ]
+        },
+        {
+            "name": "Front End Development",
+            "description": "I'm doing with ReactJS for development.",
+            "tools": [
+                {
+                    "name": "ReactJS",
+                    "id": 1
+                },
+                {
+                    "name": "React Native",
+                    "id": 2
+                },
+                {
+                    "name": "Bootstrap",
+                    "id": 3
+                },
+                {
+                    "name": "HTML5",
+                    "id": 4
+                },
+                {
+                    "name": "CSS3",
+                    "id": 5
+                },
+                {
+                    "name": "JavaScript",
+                    "id": 6
+                }
+            ]
+        },
+        {
+            "name": "Support Tools",
+            "description": "I'm doing development with Support Tools",
+            "tools": [
+                {
+                    "name": "Git",
+                    "id": 1
+                },
+                {
+                    "name": "Linux",
+                    "id": 2
+                },
+                {
+                    "name": "Vercel",
+                    "id": 3
+                },
+                {
+                    "name": "Github",
+                    "id": 4
+                }
+            ]
+        },
+        {
+            "name": "IT Support",
+            "description": "I'm doing troubleshoot for Hardware and Software.",
+            "tools": [
+                {
+                    "name": "Linux",
+                    "id": 1
+                },
+                {
+                    "name": "MacOS",
+                    "id": 2
+                },
+                {
+                    "name": "Windows",
+                    "id": 3
+                }
+            ]
+        }
+    ],
+    "experiences": [
+        {
+            "role": "IT Support Technician",
+            "company": "Politeknik LP3I Kampus Tasikmalaya",
+            "description": "The tasks carried out are carrying out computer maintenance regularly, doing troubleshooting and installing hardware & software.",
+            "length": "Aug 2017 - Present",
+            "id": 1
+        },
+        {
+            "role": "Freelance Software Developer",
+            "company": "Genami Tech",
+            "description": "The task is to do Front End development using HTML, CSS, Javascript and CSS Bootstrap framework. Integration with NodeJS, Laravel or CodeIgniter frameworks.",
+            "length": "Oct 2020 - Present",
+            "id": 2
+        },
+        {
+            "role": "Production Operator",
+            "company": "PT. Aisin Indonesia",
+            "description": "The tasks carried out are carrying out the assembly of door hinges, ensuring that the stock of door hinge components is available, collecting components periodically, managing stock and orders for components so as not to exceed demand.",
+            "length": "Aug 2016 - Mar 2017",
+            "id": 3
+        }
+    ],
+    "education": [
+        {
+            "campus": "Politeknik LP3I",
+            "grade": "3.32",
+            "id": 1
+        },
+        {
+            "campus": "SMK Manangga Pratama Kota Tasikmalaya",
+            "grade": "3.48",
+            "id": 2
+        }
+    ],
+    "certificates": [
+        {
+            "name": "Web Development Path (Ruby on Rails)",
+            "instance": "Progate",
+            "credential": "https://progate.com/path_certificate/f6263b50qzny13",
+            "issued": "Sep 2021",
+            "id": 1
+        },
+        {
+            "name": "Junior Web Programmer",
+            "instance": "LSP LP3I",
+            "credential": "No. LSP.025.16.21.06.19.003688",
+            "issued": "Jun 2019",
+            "id": 2
+        },
+        {
+            "name": "Operator Komputer",
+            "instance": "LSP LP3I",
+            "credential": "No. LSP.025.14.14.07.18.004730",
+            "issued": "Jul 2018",
+            "id": 3
+        },
+        {
+            "name": "Surat Kelulusan Ujian Kenaikan Tingkat Geup 2 Taekwondo",
+            "instance": "Taekwondo",
+            "credential": "022/PengcabT.IKt-Tsm/V/2016",
+            "issued": "Feb 2016",
+            "id": 4
+        },
+        {
+            "name": "Junior Web Programmer",
+            "instance": "Badan Nasional Sertifikasi Profesi (BNSP)",
+            "credential": "No. Reg IK 589 02683 2019",
+            "issued": "Sep 2019",
+            "id": 5
+        },
+        {
+            "name": "Database Administrator",
+            "instance": "Badan Nasional Sertifikasi Profesi (BNSP)",
+            "credential": "No. Reg IK 589 01175 2019",
+            "issued": "Apr 2019",
+            "id": 6
+        },
+        {
+            "name": "Operator Komputer",
+            "instance": "Badan Nasional Sertifikasi Profesi (BNSP)",
+            "credential": "No. Reg TIK 589 03399 2018",
+            "issued": "Oct 2018",
+            "id": 7
+        }
+    ],
+    "courses": [
+        {
+            "name": "Full-Stack Laravel VueJS",
+            "instance": "BuildWithAngga",
+            "image": "",
+            "issued": "",
+            "id": 1
+        },
+        {
+            "name": "Full-Stack Laravel React Native",
+            "instance": "BuildWithAngga",
+            "image": "",
+            "issued": "",
+            "id": 2
+        },
+        {
+            "name": "Web Development Microservices",
+            "instance": "BuildWithAngga",
+            "image": "",
+            "issued": "",
+            "id": 3
+        }
+    ],
+    "languages": [
+        {
+            "name": "Bahasa Indonesia",
+            "level": "Native or bilingual proficiency",
+            "id": 1
+        },
+        {
+            "name": "Bahasa Inggris",
+            "level": "Elementary proficiency",
+            "id": 2
+        },
+        {
+            "name": "Bahasa Sunda",
+            "level": "Native or bilingual proficiencyNative",
+            "id": 3
+        }
+    ],
+    "organizations": [
+        {
+            "name": "Taekwondo Indonesia",
+            "role": "Member",
+            "issued": "2013 - 2017",
+            "id": 1
+        }
+    ]
+}
