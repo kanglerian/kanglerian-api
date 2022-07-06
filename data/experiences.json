@@ -1,0 +1,25 @@
+{
+    "experiences": [
+        {
+            "role": "IT Support Technician",
+            "company": "Politeknik LP3I Kampus Tasikmalaya",
+            "description": "The tasks carried out are carrying out computer maintenance regularly, doing troubleshooting and installing hardware & software.",
+            "length": "Aug 2017 - Present",
+            "id": 1
+        },
+        {
+            "role": "Freelance Software Developer",
+            "company": "Genami Tech",
+            "description": "The task is to do Front End development using HTML, CSS, Javascript and CSS Bootstrap framework. Integration with NodeJS, Laravel or CodeIgniter frameworks.",
+            "length": "Oct 2020 - Present",
+            "id": 2
+        },
+        {
+            "role": "Production Operator",
+            "company": "PT. Aisin Indonesia",
+            "description": "The tasks carried out are carrying out the assembly of door hinges, ensuring that the stock of door hinge components is available, collecting components periodically, managing stock and orders for components so as not to exceed demand.",
+            "length": "Aug 2016 - Mar 2017",
+            "id": 3
+        }
+    ]
+}

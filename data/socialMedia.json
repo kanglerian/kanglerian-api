@@ -1,0 +1,29 @@
+{
+    "socialMedia": [
+        {
+            "name": "Facebook",
+            "url": "https://facebook.com/kanglerian",
+            "id": 1
+        },
+        {
+            "name": "LinkedIn",
+            "url": "https://www.linkedin.com/in/kanglerian/n",
+            "id": 2
+        },
+        {
+            "name": "Instagram",
+            "url": "https://instagram.com/kanglerian/",
+            "id": 3
+        },
+        {
+            "name": "Github",
+            "url": "https://github.com/kanglerian/",
+            "id": 4
+        },
+        {
+            "name": "Youtube",
+            "url": "https://youtube.com/c/warungprogrammer/",
+            "id": 5
+        }
+    ]
+}

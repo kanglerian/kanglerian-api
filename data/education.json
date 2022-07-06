@@ -1,0 +1,14 @@
+{
+    "education": [
+        {
+            "campus": "Politeknik LP3I",
+            "grade": "3.32",
+            "id": 1
+        },
+        {
+            "campus": "SMK Manangga Pratama Kota Tasikmalaya",
+            "grade": "3.48",
+            "id": 2
+        }
+    ]
+}
