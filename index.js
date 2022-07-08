@@ -3,14 +3,7 @@ const cors = require('cors');
 const app = express();
 const port = 5000;
 
-const profile = require('./data/profile.json');
-const socialmedia = require('./data/socialMedia.json');
-const skills = require('./data/skills.json');
-const organization = require('./data/organization.json');
-const languages = require('./data/languages.json');
-const experiences = require('./data/experiences.json');
-const education = require('./data/education.json');
-const courses = require('./data/courses.json');
+const data = require('./db.json');
 
 
 app.use(cors());
@@ -19,37 +12,50 @@ app.get('/', async (req, res) => {
     res.send("Welcome to kanglerian API");
 });
 
+app.get('/api', async (req, res) => {
+    res.json(data);
+});
+
 app.get('/api/profile', async (req, res) => {
-    res.json(profile);
+    res.json(data.profile);
 });
 
 app.get('/api/socialmedia', async (req, res) => {
-    res.json(socialmedia);
+    res.json(data.socialMedia);
 });
 
 app.get('/api/skills', async (req, res) => {
-    res.json(skills);
+    res.json(data.skills);
 });
 
 app.get('/api/organization', async (req, res) => {
-    res.json(organization);
+    res.json(data.organizations);
 });
 
 app.get('/api/languages', async (req, res) => {
-    res.json(languages);
+    res.json(data.languages);
 });
 
 app.get('/api/experiences', async (req, res) => {
-    res.json(experiences);
+    res.json(data.experiences);
+});
+
+app.get('/api/certificates', async (req, res) => {
+    res.json(data.certificates );
 });
 
 app.get('/api/education', async (req, res) => {
-    res.json(education);
+    res.json(data.education );
 });
 
 app.get('/api/courses', async (req, res) => {
-    res.json(courses);
+    res.json(data.courses);
 });
+
+app.get('/api/stacks', async (req, res) => {
+    res.json(data.stacks);
+});
+
 
 app.listen(port, () => console.log(`Apps run on http://localhost:${port}`));
 
