@@ -207,19 +207,19 @@
     {
       "type": "basic",
       "name": "HTML5",
-      "icon": "DiHtml5",
+      "icon": "SiHtml5",
       "id": 1
     },
     {
       "type": "basic",
       "name": "CSS3",
-      "icon": "DiCss3",
+      "icon": "SiCss3",
       "id": 2
     },
     {
       "type": "basic",
       "name": "Javascript",
-      "icon": "DiJavascript",
+      "icon": "SiJavascript",
       "id": 3
     },
     {
@@ -231,7 +231,7 @@
     {
       "type": "frontEnd",
       "name": "React",
-      "icon": "DiReact",
+      "icon": "SiReact",
       "id": 5
     },
     {
@@ -249,7 +249,7 @@
     {
       "type": "frontEnd",
       "name": "Sass",
-      "icon": "DiSass",
+      "icon": "SiSass",
       "id": 8
     },
     {
@@ -261,7 +261,7 @@
     {
       "type": "backEnd",
       "name": "NodeJS",
-      "icon": "DiNodejsSmall",
+      "icon": "SiNodedotjs",
       "id": 10
     },
     {
@@ -273,7 +273,7 @@
     {
       "type": "backEnd",
       "name": "CodeIgniter",
-      "icon": "DiCodeigniter",
+      "icon": "SiCodeigniter",
       "id": 12
     },
     {
@@ -291,13 +291,13 @@
     {
       "type": "deploy",
       "name": "Git",
-      "icon": "DiGit",
+      "icon": "SiGit",
       "id": 15
     },
     {
       "type": "deploy",
       "name": "Github",
-      "icon": "DiGithubBadge",
+      "icon": "SiGithub",
       "id": 16
     },
     {
@@ -315,13 +315,13 @@
     {
       "type": "os",
       "name": "Linux",
-      "icon": "DiLinux",
+      "icon": "SiLinux",
       "id": 19
     },
     {
       "type": "os",
       "name": "Windows",
-      "icon": "DiWindows",
+      "icon": "SiWindows",
       "id": 20
     },
     {
