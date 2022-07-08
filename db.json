@@ -47,22 +47,26 @@
     {
       "name": "Back End Development",
       "desc": "I'm doing with NodeJS for development.",
-      "id": 1
+      "id": 1,
+      "icon": "FaTerminal"
     },
     {
       "name": "Front End Development",
       "desc": "I'm doing with ReactJS for development.",
-      "id": 2
+      "id": 2,
+      "icon": "FaLaptopCode"
     },
     {
       "name": "IT Support",
       "desc": "I'm doing development with Support Tools.",
-      "id": 3
+      "id": 3,
+      "icon": "FaTools"
     },
     {
       "name": "IoT Enthusiast",
       "desc": "I'm doing development Arduino & NodeMCU",
-      "id": 4
+      "id": 4,
+      "icon": "FaMicrochip"
     }
   ],
   "experiences": [

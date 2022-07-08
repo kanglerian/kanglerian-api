@@ -41,11 +41,11 @@ app.get('/api/experiences', async (req, res) => {
 });
 
 app.get('/api/certificates', async (req, res) => {
-    res.json(data.certificates );
+    res.json(data.certificates);
 });
 
 app.get('/api/education', async (req, res) => {
-    res.json(data.education );
+    res.json(data.education);
 });
 
 app.get('/api/courses', async (req, res) => {
