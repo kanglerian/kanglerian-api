@@ -51,12 +51,6 @@
       "icon": "FaTerminal"
     },
     {
-      "name": "Front End Development",
-      "desc": "I'm doing with ReactJS for development.",
-      "id": 2,
-      "icon": "FaLaptopCode"
-    },
-    {
       "name": "IT Support",
       "desc": "I'm doing development with Support Tools.",
       "id": 3,
@@ -64,7 +58,7 @@
     },
     {
       "name": "IoT Enthusiast",
-      "desc": "I'm doing development Arduino & NodeMCU",
+      "desc": "I'm doing with Arduino & NodeMCU",
       "id": 4,
       "icon": "FaMicrochip"
     }
