@@ -13,12 +13,6 @@
   ],
   "socialMedia": [
     {
-      "name": "Facebook",
-      "icon": "FaFacebookF",
-      "url": "https://facebook.com/kanglerian",
-      "id": 1
-    },
-    {
       "name": "LinkedIn",
       "icon": "FaLinkedin",
       "url": "https://www.linkedin.com/in/kanglerian/",
