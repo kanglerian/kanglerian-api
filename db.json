@@ -7,29 +7,18 @@
       "title": "A.Md.Kom",
       "role": "Back End Developer",
       "residence": "Kota Tasikmalaya, Indonesia",
-      "bio": "I specialise in Web Development and IT Support. I'm always striving to grow and learn something new. I'm interested about IoT Development and Electrical Engineering 👋",
+      "bio": "I'm a Back End Developer based in Kota Tasikmalaya, Indonesia. I specialise in Web Development and IT Support. I'm always striving to grow and learn something new. I'm interested about IoT Development 👋",
       "id": 1,
-      "photo": "https://cf.shopee.co.id/file/8b4f93a3afaa5328153737d74ccfa392"
+      "fullName": "Lerian Febriana",
+      "photo": "https://avatars.githubusercontent.com/u/67350647?v=4"
     }
   ],
   "socialMedia": [
-    {
-      "name": "Facebook",
-      "icon": "FaFacebookF",
-      "url": "https://facebook.com/kanglerian",
-      "id": 1
-    },
     {
       "name": "LinkedIn",
       "icon": "FaLinkedin",
       "url": "https://www.linkedin.com/in/kanglerian/",
       "id": 2
-    },
-    {
-      "name": "Instagram",
-      "icon": "FaInstagram",
-      "url": "https://instagram.com/kanglerian/",
-      "id": 3
     },
     {
       "name": "Github",
@@ -52,12 +41,6 @@
       "icon": "FaTerminal"
     },
     {
-      "name": "Front End Development",
-      "desc": "I'm doing with ReactJS for development.",
-      "id": 2,
-      "icon": "FaLaptopCode"
-    },
-    {
       "name": "IT Support",
       "desc": "I'm doing development with Support Tools.",
       "id": 3,
@@ -65,7 +48,7 @@
     },
     {
       "name": "IoT Enthusiast",
-      "desc": "I'm doing development Arduino & NodeMCU",
+      "desc": "I'm doing with Arduino & NodeMCU",
       "id": 4,
       "icon": "FaMicrochip"
     }
