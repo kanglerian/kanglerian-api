@@ -328,8 +328,8 @@
       "type": "Web Application",
       "name": "Pemilu LP3I Apps",
       "desc": "This repository is a Pemilu Apps LP3I build with NodeJS and ExpressJS. For the layouting, I'm using Bootstrap with SB Admin.",
-      "url": "https://github.com",
-      "repo": "https://github.com/kanglerian/contactappmanager-api",
+      "url": "https://github.com/kanglerian",
+      "repo": "https://github.com/kanglerian/pemiluexpress",
       "icons": [
         {
           "name": "FaNodeJs"
