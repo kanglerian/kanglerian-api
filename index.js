@@ -56,6 +56,10 @@ app.get('/api/stacks', async (req, res) => {
     res.json(data.stacks);
 });
 
+app.get('/api/portofolio', async (req, res) => {
+    res.json(data.portofolio);
+});
+
 
 app.listen(port, () => console.log(`Apps run on http://localhost:${port}`));
 
