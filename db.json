@@ -338,6 +338,23 @@
           "name": "FaBootstrap"
         }
       ]
+    },
+    {
+      "photo": "https://i.ibb.co/PmjM0f1/kanglerian.jpg",
+      "type": "Front End Development",
+      "name": "Personal Website",
+      "desc": "This repository is a Personal Website of Lerian build with ReactJS and consume API with AXIOS. For the layouting, I'm using Chakra UI.",
+      "url": "https://kanglerian.vercel.app/",
+      "repo": "https://github.com/kanglerian/kanglerian-react",
+      "icons": [
+        {
+          "name": "FaNodeJs"
+        },
+        {
+          "name": "FaReact"
+        }
+      ],
+      "id": 2
     }
   ]
 }
