@@ -324,7 +324,7 @@
   "portofolio": [
     {
       "id": 1,
-      "photo": "",
+      "photo": "https://i.ibb.co/Hq8mv8R/pemilu-lp3i-apps.jpg",
       "type": "Web Application",
       "name": "Pemilu LP3I Apps",
       "desc": "This repository is a Pemilu Apps LP3I build with NodeJS and ExpressJS. For the layouting, I'm using Bootstrap with SB Admin.",
