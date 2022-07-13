@@ -355,6 +355,23 @@
         }
       ],
       "id": 2
+    },
+    {
+      "photo": "https://i.ibb.co/7J5WdnN/Blogger.jpg",
+      "type": "Web Application",
+      "name": "My Blogger",
+      "desc": "This repository is a my blogger build with NodeJS and build API. For the layouting, I'm using Bootstrap SB Admin.",
+      "url": "",
+      "repo": "https://github.com/kanglerian/blogger-test",
+      "icons": [
+        {
+          "name": "FaNodeJs"
+        },
+        {
+          "name": "FaBootstrap"
+        }
+      ],
+      "id": 3
     }
   ]
 }
